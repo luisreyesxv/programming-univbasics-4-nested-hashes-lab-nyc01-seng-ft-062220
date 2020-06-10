@@ -82,7 +82,7 @@ def adding_matz
       }
     }
     programmer_hash[:yukihiro_matsumoto] = {:languages => ["LISP","C"], :known_for =>"Ruby"}
-    binding.pry
+    programmer_hash
 end
 
 def changing_alan
